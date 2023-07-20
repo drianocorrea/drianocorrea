@@ -14,25 +14,11 @@
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adrianocorrea.wordpress.com/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/drianocorrea)
 
-
-[![]()]()
-
  <div>
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>  
-
-
-</div>
-  
-  ##
- 
-   ![Snake animation](https://github.com/drianocorrea/drianocorrea/tree/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
 
 # 👾I used it when I had time
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -147,4 +133,4 @@
 
 ![](https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white)
 
-![shake snake](https://github.com/ramonbrandi/ramonbrandi/blob/output/github-contribution-grid-snake.svg)
+
