@@ -28,7 +28,7 @@
   
   ##
  
-   ![Snake animation](https://github.com/driancorrea/drianocorrea/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/drianocorrea/drianocorrea/tree/output/github-contribution-grid-snake.svg)
  
 </div>
 
