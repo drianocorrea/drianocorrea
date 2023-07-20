@@ -147,4 +147,4 @@
 
 ![](https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white)
 
-![Snake animation](https://github.com/drianocorrea/drianocorrea/blob/output/github-contribution-grid-snake.gif)
+![shake snake](https://github.com/drianocorrea/drianocorrea/blob/output/github-contribution-grid-snake.svg)
