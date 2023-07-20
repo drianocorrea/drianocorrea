@@ -1,4 +1,4 @@
-name: Generate Datas
+name: fUnFa a CoBrA
 
 on:
   schedule: # execute a cada 12 horas
