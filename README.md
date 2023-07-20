@@ -1,5 +1,4 @@
 # 👨‍🍼 Programmer no time to program 😄
-
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drianocorrea/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drianocorrea@gmail.com)
 [![Whats Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982379440)
@@ -14,11 +13,28 @@
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adrianocorrea.wordpress.com/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/drianocorrea)
 
- <div>
+
+<div align=middle>
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>  
+
+### 🐍 Snake not my - from [![Gitlab Badge](https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white)]([https://gitlab.com/drianocorrea](https://github.com/Platane)) <hr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation" align="center"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture><hr></div>
 
 # 👾I used it when I had time
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -111,26 +127,44 @@
 ![](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)
 ![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
 ![](https://img.shields.io/badge/ShopeePay-ED1C24?style=for-the-badge&logo=shopeepay&logoColor=white)
-	
+<hr>
     
     
 🎶 Sound
-
 ![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
 ![](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-🍔 Food
-
-![](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)
-
 💻 Workspace Specs
-
 ![](https://img.shields.io/badge/AMD-Ryzen_5_PRO_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 🚗 car
-
 ![](https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white)
 
+🍔 Food
+![](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)
+
+
+
+<div align="center">
+  <!-- Work Links -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🚗 car</b></td>
+      <td><b>🍔 Food</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white" width="300px" height="170px"></td>
+      <td><img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" width="300px" height="170px"> </td>
+    </tr>
+  </table>
+</div>
 
