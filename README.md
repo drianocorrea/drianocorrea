@@ -1,17 +1,25 @@
 # 👨‍🍼 Programmer no time to program 😄
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drianocorrea/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drianocorrea@gmail.com)
-[![Whats Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982379440)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://stillmaking.com/)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://stillmaking.com/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://stillmaking.com/)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/drianocorrea/)
-[![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/drianocorrea/activity)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drianocorrea/)
-[![Whats Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://icq.im/tiudri)
-[![](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/drianocorrea.7755072/)
-[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adrianocorrea.wordpress.com/)
-[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/drianocorrea)
+
+<div align="right">
+<table>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=drianocorrea&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+  <a href="https://github.com/drianocorrea/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:drianocorrea@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5512982379440" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "https://www.reddit.com/user/drianocorrea/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href = "https://trello.com/u/drianocorrea/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/drianocorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://icq.im/tiudri"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"></a>
+  <a href = "https://forum.xda-developers.com/m/drianocorrea.7755072/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
+  <a href = "https://adrianocorrea.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href = "https://gitlab.com/drianocorrea"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</table>
+</div style="display: inline_block"><br><br><br><br><br>
+
+<hr><br>
 
 
 <div align=middle>
@@ -20,7 +28,8 @@
 </div>
 <div style="display: inline_block"><br>  
 
-### 🐍 Snake not my - from [![Gitlab Badge](https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white)]([https://gitlab.com/drianocorrea](https://github.com/Platane)) <hr>
+
+### 🐍 Snake not my - from <a href = "https://github.com/Platane"><img src="https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white"></a><hr>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -129,42 +138,35 @@
 ![](https://img.shields.io/badge/ShopeePay-ED1C24?style=for-the-badge&logo=shopeepay&logoColor=white)
 <hr>
     
-    
-🎶 Sound
-![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
-![](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-
-💻 Workspace Specs
-![](https://img.shields.io/badge/AMD-Ryzen_5_PRO_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-🚗 car
-![](https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white)
-
-🍔 Food
-![](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)
-
-
-
 <div align="center">
-  <!-- Work Links -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <table>
+      <tr align="middle">
+        <td><b>🎶 Sound</b></td>
+      <tr>
+        <td><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white">
+        <img src="https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+        <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+        </td>
+      </tr>
+    </table>
 </div>
+
+
+
+
 
 <div align="center">
   <table>
-    <tr>
+    <tr align="middle">
+      <td><b>💻 Workspace Specs</b></td>
       <td><b>🚗 car</b></td>
       <td><b>🍔 Food</b></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white" width="300px" height="170px"></td>
-      <td><img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" width="300px" height="170px"> </td>
+      <td><img src="https://img.shields.io/badge/AMD-Ryzen_5_PRO_4650G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Fiat-Palio-%23FF0000.svg?style=for-the-badge&logo=fiat&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white"> </td>
     </tr>
   </table>
 </div>
-
