@@ -146,7 +146,7 @@
 <div align="center">
   <table>
     <tr align="middle">
-      <td><b>🎞️Streaming - When children going to the bad 😴</b></td>
+      <td><b>🎞️Streaming - When children going to the bed 😴</b></td>
     </tr>
     <tr>
       <td>
