@@ -1,32 +1,36 @@
 # 👨‍🍼 Programmer no time to program 😄
 
-<div align="right">
+<div align="center">
 <table>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=drianocorrea&amp;theme=onedark&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-  <a href="https://github.com/drianocorrea/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="mailto:drianocorrea@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5512982379440" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "https://www.reddit.com/user/drianocorrea/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href = "https://trello.com/u/drianocorrea/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/drianocorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://icq.im/tiudri"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"></a>
-  <a href = "https://forum.xda-developers.com/m/drianocorrea.7755072/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
-  <a href = "https://adrianocorrea.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  <a href = "https://gitlab.com/drianocorrea"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <tr aligh="middle">
+    <td width="460" height="250em" align="right">
+      <a href="https://github.com/drianocorrea/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+      <a href="mailto:drianocorrea@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://api.whatsapp.com/send?phone=5512982379440" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+      <a href = ""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+      <a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+      <a href = ""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      <a href = "https://www.reddit.com/user/drianocorrea/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+      <a href = "https://trello.com/u/drianocorrea/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+      <a href = "https://www.linkedin.com/in/drianocorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href = "https://icq.im/tiudri"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"></a>
+      <a href = "https://forum.xda-developers.com/m/drianocorrea.7755072/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
+      <a href = "https://adrianocorrea.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+      <a href = "https://gitlab.com/drianocorrea"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+    </td>
+    <td align="right">
+      <img align="right" src="https://github-profile-trophy.vercel.app/?username=drianocorrea&amp;theme=onedark&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width:100px"; width="310">
+    </td>
+  </tr>
 </table>
-</div style="display: inline_block"><br><br><br><br><br>
+</div style="display: inline_block">
 
 <hr><br>
-
 
 <div align=middle>
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-<div style="display: inline_block"><br>  
+</div style="display: inline_block"><br>  
 
 
 ### 🐍 Snake not my - from <a href = "https://github.com/Platane"><img src="https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white"></a><hr>
@@ -76,11 +80,12 @@
 
 <div align="center">
   <table>
-    <tr align="middle">
-      <td><b>🚀 Skills - still learning ever</b></td>
+    <tr>
+      <td align="right"><b>🚀 Skills - still learning ever</b></td>
+      <td><b>📚 Education - Still learning ever</b></td>
     </tr>
     <tr>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -93,36 +98,6 @@
         <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
         <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
       </td>
-    </tr>
-  </table>
-</div><hr>
-
-<div align="center">
-  <table>
-    <tr align="middle">
-      <td><b>👩‍💻 IDE - I used or use</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-        <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-        <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
-      </td>
-    </tr>
-  </table>
-</div><hr>
-
-<div align="center">
-  <table>
-    <tr align="middle">
-      <td><b>📚 Education - Still learning ever</b></td>
-    </tr>
-    <tr>
       <td>
         <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
         <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">
@@ -142,14 +117,34 @@
   </table>
 </div><hr>
 
-
 <div align="center">
   <table>
     <tr align="middle">
-      <td><b>🎞️Streaming - When children going to the bed 😴</b></td>
+      <td><b>👩‍💻 IDE - I used or use</b></td>
     </tr>
     <tr>
-      <td>
+      <td align="middle">
+        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
+      </td>
+    </tr>
+  </table>
+</div><hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="right"><b>🎞️Streaming - When children going to the bed 😴</b></td>
+      <td><b>🎮 Games - waiting ...</b></td>
+    </tr>
+    <tr>
+      <td align="right">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white">
         <img src="https://img.shields.io/badge/starplus-FF0000?style=for-the-badge&logo=starplus&logoColor=white">
@@ -160,16 +155,6 @@
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
         <img src="https://img.shields.io/badge/Disney+-FF0000?style=for-the-badge&logo=disney+&logoColor=white">
       </td>
-    </tr>
-  </table>
-</div><hr>
-
-<div align="center">
-  <table>
-    <tr align="middle">
-      <td><b>🎮 Games - waiting ...</b></td>
-    </tr>
-    <tr>
       <td>
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
         <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
@@ -178,11 +163,10 @@
         <img src="https://img.shields.io/badge/PS-Emulator-000000?style=for-the-badge&logo=Playstation&logoColor=white">
         <img src="https://img.shields.io/badge/Arcade-Emulator-B7312F?style=for-the-badge&logo=&logoColor=white">
         <img src="https://img.shields.io/badge/RetroArch-Others-FA5?style=for-the-badge&logo=retroarch&logoColor=white">
-      </td>
+      </td>      
     </tr>
   </table>
 </div><hr>
-
 
 <div align="center">
   <table>
@@ -202,8 +186,6 @@
     </tr>
   </table>
 </div><hr>
-
-
     
 <div align="center">
     <table>
@@ -218,8 +200,6 @@
       </tr>
     </table>
 </div><hr>
-
-
 
 <div align="center">
   <table>
