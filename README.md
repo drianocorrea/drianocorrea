@@ -23,7 +23,7 @@
     </td>
   </tr>
 </table>
-</div style="display: inline_block">
+</div style="display:inline_block">
 
 <hr><br>
 
