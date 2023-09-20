@@ -28,7 +28,7 @@
 <hr><br>
 
 <div align=middle>
-  <-- <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> -->
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&bg_color=00000000"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
 </div style="display: inline_block"><br>
 
