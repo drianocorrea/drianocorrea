@@ -30,7 +30,7 @@
 <div align=middle>
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
-</div style="display: inline_block"><br>  
+--</div style="display: inline_block"><br>--
 
 
 ### 🐍 Snake not my - from <a href = "https://github.com/Platane"><img src="https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white"></a><hr>
