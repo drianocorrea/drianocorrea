@@ -14,7 +14,7 @@
       <a href = "https://trello.com/u/drianocorrea/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
       <a href = "https://www.linkedin.com/in/drianocorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href = "https://icq.im/tiudri"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"></a>
-      <--<a href = "https://forum.xda-developers.com/m/drianocorrea.7755072/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></a>-->
+      <a href = "https://forum.xda-developers.com/m/drianocorrea.7755072/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
       <a href = "https://adrianocorrea.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
       <a href = "https://gitlab.com/drianocorrea"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     </td>
@@ -28,12 +28,10 @@
 <hr><br>
 
 <div align=middle>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <-- <img height="195em" src="https://github-readme-stats.vercel.app/api?username=drianocorrea&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> -->
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianocorrea&layout=compact&langs_count=7&theme=onedark"/>
---</div style="display: inline_block"><br>--
-,0
- v
- poiuyttyuiop´[poiu876532
+</div style="display: inline_block"><br>
+
 
 ### 🐍 Snake not my - from <a href = "https://github.com/Platane"><img src="https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white"></a><hr>
 <picture>
