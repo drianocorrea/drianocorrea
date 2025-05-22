@@ -175,13 +175,14 @@
     </tr>
     <tr>
       <td>
+        <a href="https://ko-fi.com/drianocorrea" target="_blank"><img src="https://img.shields.io/badge/ko-fi?style=for-the-badge&logo=kofi&color=pink"&logoColor=white></a>
         <a href="https://picpay.me/drianocorrea/10" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"></a>
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+        <!--<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
         <img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white">
         <img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white">
         <img src="https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white">
         <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-        <img src="https://img.shields.io/badge/ShopeePay-ED1C24?style=for-the-badge&logo=shopeepay&logoColor=white">
+        <img src="https://img.shields.io/badge/ShopeePay-ED1C24?style=for-the-badge&logo=shopeepay&logoColor=white">-->
       </td>
     </tr>
   </table>
