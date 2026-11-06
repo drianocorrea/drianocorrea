@@ -21,8 +21,6 @@
 
 <hr><br>
 
-
-### 🐍  The  <a href = "https://github.com/Platane"><img src="https://img.shields.io/badge/Platane-330F63?style=regular&logo=git&logoColor=white"></a>  Snake <hr>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
