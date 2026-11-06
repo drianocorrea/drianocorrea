@@ -17,8 +17,6 @@
 </table>
 </div style="display:inline_block">
 
-<hr><br>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
