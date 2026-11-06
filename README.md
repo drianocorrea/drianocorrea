@@ -15,9 +15,6 @@
       <a href = "https://www.xiaohongshu.com/drianocorrea"><img src="https://img.shields.io/badge/xiaohongshu-red?style=for-the-badge&logo=xiaohongshu&logoColor=white"></a>
       <a href = "https://gitlab.com/drianocorrea"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     </td>
-    <td align="right">
-      <img align="right" src="https://github-profile-trophy.vercel.app/?username=drianocorrea&amp;theme=onedark&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width:100"; width="310">
-    </td>
   </tr>
 </table>
 </div style="display:inline_block">
